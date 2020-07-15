@@ -1,2 +1,9 @@
-- [Home](/)
-- [Configuration](configuration.md)
+- [Introduction](/)
+- Configuration
+  - [Web devlopment](configuration/web-development.md)
+  - [Data analysis](configuration/data-analysis.md)
+- Coding
+  - [JavaScript](coding/javascript.md)
+  - [Sass](coding/sass.md)
+  - [TypeScript](coding/typescript.md)
+  - [Python](coding/python.md)
