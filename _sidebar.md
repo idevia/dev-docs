@@ -1,0 +1,2 @@
+- [Home](/)
+- [Configuration](configuration.md)
