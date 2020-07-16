@@ -34,3 +34,13 @@ myFunction = () => {
   // Your code here
 }
 ```
+
+# Indentation
+
+Must use **2 space** indentaion. Not a space more not a space less.
+
+```javascript
+myFunction () => {
+..// Your code
+}
+```
