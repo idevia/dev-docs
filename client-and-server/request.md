@@ -33,7 +33,7 @@ Update a single user:
 Request parameters are really important when you send data to the APIs that we build. We have set the following rules for this:
 
 - camel casing not allowed
-- You have to use snake-case (**request-param**)
+- You have to use snake-case (**request_param**)
 - If you need to send the _id_ of any document, you'll be sending **id**, not **_\_id_**, **_userId_** or **_user_id_**
 
 !> **Note:** camel casing is not allowed in API endpoint and request parameter.

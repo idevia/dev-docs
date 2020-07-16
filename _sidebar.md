@@ -1,6 +1,6 @@
 - [Introduction](/)
 - Configuration
-  - [Web devlopment](configuration/web-development.md)
+  - [Web development](configuration/web-development.md)
   - [Data analysis](configuration/data-analysis.md)
 - Coding
   - [JavaScript](coding/javascript.md)
