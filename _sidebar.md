@@ -4,9 +4,13 @@
   - [Data analysis](configuration/data-analysis.md)
 - Coding
   - [JavaScript](coding/javascript.md)
-  - [SCSS](coding/SCSS.md)
+  - [Sass](coding/Sass.md)
   - [TypeScript](coding/typescript.md)
   - [Python](coding/python.md)
 - Client & Server
+  - [.env](client-and-server/environment.md)
   - [Request](client-and-server/request.md)
   - [Response](client-and-server/response.md)
+- Folder structure
+  - [Rest APIs](folder-structure/rest-api.md)
+  - [GraphQL](folder-structure/graphql.md)
