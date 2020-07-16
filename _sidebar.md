@@ -4,7 +4,7 @@
   - [Data analysis](configuration/data-analysis.md)
 - Coding
   - [JavaScript](coding/javascript.md)
-  - [Sass](coding/sass.md)
+  - [SCSS](coding/SCSS.md)
   - [TypeScript](coding/typescript.md)
   - [Python](coding/python.md)
 - Client & Server
