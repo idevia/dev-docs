@@ -12,6 +12,6 @@ It took them a lot of time figure out the suitable things. They have built a lot
 
 ## Why follow this documentation?
 
-Well, if you don't want us to have a treat at the end of the month with your salary then you have **no option**.
+Well, if you don't want us to have a treat, at the end of the month, that you have to sponsor then you have **no option**.
 
 > ### _If you don't treat us seriously, you'll seriously treat us._

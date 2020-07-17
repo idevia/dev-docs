@@ -2,40 +2,31 @@
 
 ## Nodejs (JavaScript)
 
-You must have to maintain the following folder structure for GraphQL projects
-
-```
-root
-├── api
-│   └── v1
-│       ├── controllers
-│       │   ├── auth.ctrl.js
-│       │   └── users.ctrl.js
-│       ├── enums
-│       │   ├── statusCodes.js
-│       │   └── userRoles.js
-│       ├── middleware
-│       │   └── auth.middleware.js
-│       ├── models
-│       │   └── User.js
-│       ├── routes
-│       │   └── index.js
-│       └── utils
-│           └── s3-uploads.js
-├── app.js
-├── db
-│   ├── db.js
-│   └── seeder
-│       ├── index.js
-│       └── user.seeder.js
-├── lib
-│   ├── random-string.js
-│   └── utilsLib.js
-├── package.json
-|── README.md
-└── .env
-```
+TBD
 
 ## Nodejs (TypeScript)
 
-TBD
+You must have to maintain the following folder structure for GraphQL projects
+
+```
+server
+├── app
+│   ├── index.ts
+│   └── v1
+│       ├── interfaces
+│       │   └── User.ts
+│       ├── models
+│       │   ├── User.ts
+│       │   └── index.ts
+│       ├── resolvers
+│       │   ├── index.ts
+│       │   └── userResolvers.ts
+│       └── typeDefs
+│           ├── index.ts
+│           ├── query.ts
+│           └── types
+├── index.ts
+├── nodemon.json
+├── package.json
+└── tsconfig.json
+```
