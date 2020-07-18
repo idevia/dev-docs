@@ -8,7 +8,7 @@
   - [TypeScript](coding/typescript.md)
   - [Python](coding/python.md)
 - Client & Server
-  - [.env](client-and-server/environment.md)
+  - [Environment variables](client-and-server/environment.md)
   - [Request](client-and-server/request.md)
   - [Response](client-and-server/response.md)
 - Folder structure

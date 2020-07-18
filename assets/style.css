@@ -186,8 +186,12 @@ section.cover.show ~ .sidebar-toggle {
 }
 
 /****** Sidebar ******/
+.sidebar > h1 {
+  text-align: left;
+  margin-left: 15px;
+}
 .sidebar .app-name-link img {
-  height: 150px;
+  height: 35px;
 }
 
 .sidebar ul li a {
