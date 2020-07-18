@@ -14,7 +14,7 @@ Dos
 
 Don'ts
 
-!> **my_awesome_variable**, **IlikeJS**, **variablename**, **_variableName**, **2myName**, **@#myName**
+!> **my_awesome_variable**, **IlikeJS**, **variablename**, **\_variableName**, **2myName**, **@#myName**
 
 ## Nesting
 
@@ -57,7 +57,7 @@ JavaScript is a pretty quirky language, I think we can all agree on that. Upon c
 You must use **2 space** indentaion. Not a space more, not a space less.
 
 ```javascript
-myFunction () => {
+myFunction = () => {
 ..// Your code
 }
 ```
@@ -67,11 +67,12 @@ myFunction () => {
 Modern JavaScript does not require semi-colons, so although you can add them, they are not necessary. We have decided to not use semi-colons at the end of lines in our projects and you are expected to do the same (or treat is imminent 😉).
 
 ```javascript
-myFunction () => {
+myFunction = () => {
   const myName = 'iDevia'
   console.log(myName.toUpperCase())
 }
 ```
+
 ## Quotes
 
 For all the string variables and other such cases requiring the use of quotes, we have decided to use **single quotes**.
