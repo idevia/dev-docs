@@ -8,8 +8,7 @@ TBD
 
 You must have to maintain the following folder structure for GraphQL projects
 
-```
-server
+```server
 ├── app
 │   ├── index.ts
 │   └── v1
@@ -22,9 +21,9 @@ server
 │       │   ├── index.ts
 │       │   └── userResolvers.ts
 │       └── typeDefs
-│           ├── index.ts
-│           ├── query.ts
+│           ├── schema.graphql
 │           └── types
+│               └── users.graphql
 ├── index.ts
 ├── nodemon.json
 ├── package.json
