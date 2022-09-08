@@ -24,7 +24,7 @@ It is very important to sent a status code in every request. Here is the complet
 | 401      | Unauthorised       | User is not have valid authentication    |
 | 402      | Payment expired    | Subscription has expired                 |
 | 403      | Forbidden          | Data is valid but user have no access    |
-| 404      | `Never use`        | I repeat `Never use`                     |
+| 404      | Not Found          | If the requested data is not found       |
 | 405      | Method not allowed | User is locked by admin                  |
 | 500      | Server error       | Something went wrong with server         |
 | 503      | Database error     | Something went wrong while with database |
